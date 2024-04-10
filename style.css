@@ -4,3 +4,17 @@
     list-style: none;
     text-decoration: none;
 }
+
+.navbar {
+    margin: 10px;
+    background-color: rgb(158, 229, 239);
+    border-radius: 20px;
+}
+
+.container-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5%;
+}
